@@ -1,0 +1,3 @@
+# Week 8 Assignment
+
+I was suprised at the low rate of crusining in these sites, albeit with the condition that I'm not very familiar with the parking scene in San Francisco and Ann Arbor. What stood out to me were the temporal breakdowns of the crusing periods. At 3am there were large bumps across San Francisco, whereas Ann Arbor and the Mission area were more or less consistent with work hours and leisure periods. I wonder how this would look like over time, and if it would be possible to account for situations that minimized crusising. We're there particular events that led to folks finding parker quicker? What were the patterns built into peoples work schedules to respond to parking and how did crusing shift block to block based on industries?  
